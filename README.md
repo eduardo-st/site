@@ -1,38 +1,48 @@
 ### Bem vindo ao perfil
 
 Graduando do Curso Superior de Tecnologia em Redes de Computadores.
- 
-[LinkedIn](https://https://www.linkedin.com/in/eduardossantos/).
+Interesse nas áreas de IoT, telecomunicações, infraestrutura e redes, administração de sistemas e segurança da informação. 
+Perfil no [LinkedIn](https://www.linkedin.com/in/eduardossantos/).
 
 
 ### Redes de Computadores
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Modelos OSI e TCP/IP
+Principais protocolos
+Arquitetura de redes
+Redes LAN, MAN e WAN
+Interconexão de redes
+Projeto de redes
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Gerência de Redes de Computadores
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardo-st/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+Introdução a Gerência de Redes
+Arquiteturas de gerência e seus protocolos
+Comandos e ferramentas utilizados na administração de serviços de redes baseadas em Linux
+Simple Network Management Protocol
+Management Information Base – MIB
+Servidores Linux: DNS, WEB, correio eletrônico, acesso remoto (Telnet e SSH), transferência de arquivos (FTP e SCP), arquivos em ambiente Linux (NFS), serviço de
+diretório (LDAP), impressão, DHCP, arquivos em ambientes heterogêneos (SAMBA) e tradução de endereços (NAT)
+Monitoração Remota: RMON e RMONII
+Gerenciamento baseado em políticas
+Ferramentas de Gerência de Redes
+Proxy
+Roteamento.
+```
 
 ### Cabeamanto Estruturado
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sistemas de cabeamento estruturado
+Meios de transmissão
+Interferência entre circuitos
+Testes, ativação e operação do sistema
+Principais mídias utilizadas no sistema de cabeamento estruturado
+Cabeamento estruturado comercial, residencial e industrial
+Conceitos das normas brasileiras e internacionais de cabeamento estruturado
+Planejamento e projeto de sistemas estruturados
+usando a abordagem top-down
