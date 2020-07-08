@@ -1,10 +1,11 @@
-## Bem vindo ao perfil
+### Bem vindo ao perfil
 
-You can use the [perfil](https://https://www.linkedin.com/in/eduardossantos/) to maintain and preview the content for your website in Markdown files.
+Graduando do Curso Superior de Tecnologia em Redes de Computadores.
+ 
+[LinkedIn](https://https://www.linkedin.com/in/eduardossantos/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Redes de Computadores
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +29,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Gerência de Redes de Computadores
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardo-st/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Cabeamanto Estruturado
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
