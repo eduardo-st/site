@@ -1,9 +1,10 @@
 ### Bem vindo ao perfil
 
-####Graduando do Curso Superior de Tecnologia em Redes de Computadores.
-####Interesse nas áreas de IoT, telecomunicações, infraestrutura e redes, administração de sistemas e segurança da informação. 
+#### Graduando do Curso Superior de Tecnologia em Redes de Computadores.
 
-####Perfil no [LinkedIn](https://www.linkedin.com/in/eduardossantos/).
+#### Interesse nas áreas de IoT, telecomunicações, infraestrutura e redes, administração de sistemas e segurança da informação. 
+
+#### Perfil no [LinkedIn](https://www.linkedin.com/in/eduardossantos/).
 
 
 ### Redes de Computadores
