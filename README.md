@@ -1,8 +1,9 @@
 ### Bem vindo ao perfil
 
-Graduando do Curso Superior de Tecnologia em Redes de Computadores.
-Interesse nas áreas de IoT, telecomunicações, infraestrutura e redes, administração de sistemas e segurança da informação. 
-Perfil no [LinkedIn](https://www.linkedin.com/in/eduardossantos/).
+####Graduando do Curso Superior de Tecnologia em Redes de Computadores.
+####Interesse nas áreas de IoT, telecomunicações, infraestrutura e redes, administração de sistemas e segurança da informação. 
+
+####Perfil no [LinkedIn](https://www.linkedin.com/in/eduardossantos/).
 
 
 ### Redes de Computadores
@@ -16,8 +17,6 @@ Interconexão de redes
 Projeto de redes
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Gerência de Redes de Computadores
 
 ```markdown
@@ -26,8 +25,10 @@ Arquiteturas de gerência e seus protocolos
 Comandos e ferramentas utilizados na administração de serviços de redes baseadas em Linux
 Simple Network Management Protocol
 Management Information Base – MIB
-Servidores Linux: DNS, WEB, correio eletrônico, acesso remoto (Telnet e SSH), transferência de arquivos (FTP e SCP), arquivos em ambiente Linux (NFS), serviço de
-diretório (LDAP), impressão, DHCP, arquivos em ambientes heterogêneos (SAMBA) e tradução de endereços (NAT)
+Servidores Linux: DNS, WEB, correio eletrônico, acesso remoto (Telnet e SSH),
+transferência de arquivos (FTP e SCP), arquivos em ambiente Linux (NFS),
+serviço de diretório (LDAP), impressão, DHCP, arquivos em ambientes
+heterogêneos (SAMBA) e tradução de endereços (NAT)
 Monitoração Remota: RMON e RMONII
 Gerenciamento baseado em políticas
 Ferramentas de Gerência de Redes
@@ -37,6 +38,7 @@ Roteamento.
 
 ### Cabeamanto Estruturado
 
+```markdown
 Sistemas de cabeamento estruturado
 Meios de transmissão
 Interferência entre circuitos
@@ -46,3 +48,4 @@ Cabeamento estruturado comercial, residencial e industrial
 Conceitos das normas brasileiras e internacionais de cabeamento estruturado
 Planejamento e projeto de sistemas estruturados
 usando a abordagem top-down
+```
